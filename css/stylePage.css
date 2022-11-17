@@ -41,6 +41,7 @@ nav
 .navbar-light .navbar-nav .nav-link
 ,.navbar-light .navbar-brand
 {
+     text-align: center;
     color: var(--textColorWithe);
     transition: all .5s ease-in-out;
 }
